@@ -1,14 +1,20 @@
 ![Github Banner](assets/github-banner.png)
 
+<br/>
+
 # **Hi there 👋**
 
 I am **Shehjad Mobin**, a **_Full Stack Web Developer_** specialized in **_MERN Stack technologies_**. Dedicated to crafting responsive, visually appealing, and impactful web applications. Passionate about building efficient and scalable solutions that tackle real-world problems. Always ready for a challenge and eager to embrace new technologies.
+
+<br/>
 
 # ☕ Find Me On
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m0bin/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehjad0mobin@gmail.com)
 [![googlechrome Badge](https://img.shields.io/badge/www.smobin.com-4BB749?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FEC111)](https://www.smobin.com)
+
+<br/>
 
 # 🛠️ Technologies I Use
 
@@ -33,12 +39,20 @@ I am **Shehjad Mobin**, a **_Full Stack Web Developer_** specialized in **_MERN 
 
 <!-- [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) -->
 
+<br/>
+
 # ✏️ Current overview
 
 ### 🔭 I’m currently working on a Class Scheduling Web Application.
 
 ### 🌱 I’m currently learning Next.js.
 
----
+<br/>
+
+# 📈 Current Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sm0bin&theme=dark&hide_border=true&border_radius=0&card_width=1280&ring=A6FFFF&border=73ADDF&background=001A33&currStreakNum=A6FFFF&sideLabels=A6FFFF&dates=73ADDF&excludeDaysLabel=EB5454&sideNums=A6FFFF&fire=A6FFFF&currStreakLabel=73ADDF)](https://git.io/streak-stats)
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
