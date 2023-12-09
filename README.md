@@ -4,6 +4,10 @@
 
 I am **Shehjad Mobin**, a **_Full Stack Web Developer_** specialized in **_MERN Stack technologies_**. Dedicated to crafting responsive, visually appealing, and impactful web applications. Passionate about building efficient and scalable solutions that tackle real-world problems. Always ready for a challenge and eager to embrace new technologies.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sm0bin&theme=dark&hide_border=true&border_radius=0&ring=A6FFFF&border=73ADDF&background=001A33&currStreakNum=A6FFFF&sideLabels=A6FFFF&dates=73ADDF&excludeDaysLabel=EB5454&sideNums=A6FFFF&fire=A6FFFF&currStreakLabel=73ADDF)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sm0bin&theme=dark&hide_border=true&border_radius=0&card_width=1280&ring=A6FFFF&border=73ADDF&background=001A33&currStreakNum=A6FFFF&sideLabels=A6FFFF&dates=73ADDF&excludeDaysLabel=EB5454&sideNums=A6FFFF&fire=A6FFFF&currStreakLabel=73ADDF)](https://git.io/streak-stats)
+
 # ☕ Find Me On
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m0bin/)
