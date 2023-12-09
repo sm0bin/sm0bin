@@ -4,7 +4,7 @@
 
 # **Hi there 👋**
 
-I am **Shehjad Mobin**, a **_Full Stack Web Developer_** specialized in **_MERN Stack technologies_**. Dedicated to crafting responsive, visually appealing, and impactful web applications. Passionate about building efficient and scalable solutions that tackle real-world problems. Always ready for a challenge and eager to embrace new technologies.
+I am **Shehjad Mobin**, a **_Full Stack Web Developer_** specialized in **_MERN Stack_** technologies. Dedicated to crafting responsive, visually appealing, and impactful web applications. Passionate about building efficient and scalable solutions that tackle real-world problems. Always ready for a challenge and eager to embrace new technologies.
 
 <br/>
 
