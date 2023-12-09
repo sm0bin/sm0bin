@@ -51,12 +51,13 @@ I am **Shehjad Mobin**, a **_Full Stack Web Developer_** specialized in **_MERN 
 
 # 📈 Current Stats
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sm0bin&theme=dark&hide_border=true&border_radius=0&card_width=1280&ring=A6FFFF&border=73ADDF&background=001A33&currStreakNum=A6FFFF&sideLabels=A6FFFF&dates=73ADDF&excludeDaysLabel=EB5454&sideNums=A6FFFF&fire=A6FFFF&currStreakLabel=73ADDF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sm0bin&theme=dark&hide_border=true&border_radius=0&card_width=1280&ring=A6FFFF&border=73ADDF&background=001A33&currStreakNum=A6FFFF&sideLabels=A6FFFF&dates=73ADDF&excludeDaysLabel=EB5454&sideNums=A6FFFF&fire=A6FFFF&currStreakLabel=73ADDF)](https://git.io/streak-stats)
 
+<!--
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sm0bin&theme=dark&hide_border=false)<br/>
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=sm0bin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sm0bin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sm0bin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
