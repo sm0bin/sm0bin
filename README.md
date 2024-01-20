@@ -19,7 +19,7 @@ I am **Shehjad Mobin**, a **_Full Stack Web Developer_** specialized in **_MERN 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/smobin)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.net/smobin)
 [![Mail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:shehjad0mobin@gmail.com)
-[![Web](https://img.shields.io/badge/smobin.com-%FEC111.svg?logo=googlechrome&logoColor=white)](https://www.smobin.com)
+[![Web](https://img.shields.io/badge/Portfolio-%FEC111.svg?logo=googlechrome&logoColor=white)](https://portfolio-smobin.web.app)
 <br/>
 
 # 🛠️ Technologies I Use
